@@ -1,0 +1,8 @@
+
+{
+  "name": "SwiftSense Speed Meter",
+  "description": "A high-performance internet speed testing tool with AI-powered network analysis and beautiful data visualizations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
